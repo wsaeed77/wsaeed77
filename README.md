@@ -57,7 +57,7 @@ Senior Software Engineer
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=github" alt="bilal-azam" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wsaeed77&theme=github" alt="Waqas saeed" />
 </div>
 ---
 
