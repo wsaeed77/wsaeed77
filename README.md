@@ -56,6 +56,9 @@ Senior Software Engineer
 ![SendGrid](https://img.shields.io/badge/SendGrid-4285F4?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+<div align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=github" alt="bilal-azam" />
+</div>
 ---
 
 ## 📈 GitHub Contribution Graph
