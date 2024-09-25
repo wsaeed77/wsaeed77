@@ -62,9 +62,4 @@ Senior Software Engineer
 </div>
 ---
 
-## 📈 GitHub Contribution Graph
-
-[![Waqas's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wsaeed77&bg_color=ffffff&color=000000&line=007acc&point=ff0000&area=true&hide_border=true)](https://github.com/wsaeed77)
-
----
 
