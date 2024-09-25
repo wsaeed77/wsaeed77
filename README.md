@@ -57,7 +57,9 @@ Senior Software Engineer
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wsaeed77&theme=github" alt="Waqas saeed" />
+ <div align="">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wsaeed77&theme=github" alt="wsaeed77" />
+</div>
 ---
 
 ## 📈 GitHub Contribution Graph
